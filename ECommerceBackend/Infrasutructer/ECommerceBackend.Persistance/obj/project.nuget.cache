@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFD+K5IWaWAdaeTxjQE8SsoJiBUsNsrwqg60v4EYfxnimFguYKOYNWzBySkQS4bfwMOqDECahWyhMXhgegSd2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\B166ER\\Desktop\\Project\\miniecommerce\\ECommerceBackend\\Infrasutructer\\ECommerceBackend.Persistance\\ECommerceBackend.Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\B166ER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

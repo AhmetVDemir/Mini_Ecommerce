@@ -1,0 +1,17 @@
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Persistance.deps.json
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Persistance.dll
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Persistance.pdb
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Application.dll
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Domain.dll
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Application.pdb
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Domain.pdb
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.csproj.AssemblyReference.cache
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.AssemblyInfoInputs.cache
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.AssemblyInfo.cs
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.csproj.CopyComplete
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.dll
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\refint\ECommerceBackend.Persistance.dll
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.pdb
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ref\ECommerceBackend.Persistance.dll
