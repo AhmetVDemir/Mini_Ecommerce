@@ -2,7 +2,7 @@
 
 namespace ECommerceBackend.Domain.Entities.Concrete
 {
-    public class Product : BaseEntity
+    public class Customer : BaseEntity
     {
     }
 }

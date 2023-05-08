@@ -1,5 +1,4 @@
-﻿using ECommerceBackend.Application.Abstraction;
-using ECommerceBackend.Persistance.Concrete;
+﻿
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,7 +12,7 @@ namespace ECommerceBackend.Persistance
     {
         public static void AddPersistanceServices(this IServiceCollection services)
         {
-            services.AddSingleton<IProductService, ProductService>();
+            
         }
     }
 }
