@@ -1,10 +1,7 @@
 ﻿
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using ECommerceBackend.Persistance.Contexxt;
 
 namespace ECommerceBackend.Persistance
 {
@@ -12,7 +9,7 @@ namespace ECommerceBackend.Persistance
     {
         public static void AddPersistanceServices(this IServiceCollection services)
         {
-            
+            services.AddDbContext<ECommerceApiDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));
         }
     }
 }

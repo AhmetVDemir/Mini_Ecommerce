@@ -15,3 +15,5 @@ C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\EC
 C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\refint\ECommerceBackend.Persistance.dll
 C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.pdb
 C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ref\ECommerceBackend.Persistance.dll
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\bin\Debug\net6.0\ECommerceBackend.Persistance.runtimeconfig.json
+C:\Users\B166ER\Desktop\Project\miniecommerce\ECommerceBackend\Infrasutructer\ECommerceBackend.Persistance\obj\Debug\net6.0\ECommerceBackend.Persistance.genruntimeconfig.cache
