@@ -23,11 +23,8 @@ namespace ECommerceBackend.API.Controllers
         [HttpGet]
         public async Task<ActionResult> GetProducts()
         {
-            await _productWriteRepository.AddRangeAsync(new() {
-                new() {Id = Guid.NewGuid(), CreatedAt = DateTime.UtcNow, Name = "Urun1", Price = 100, Stock = 10},
-                new() {Id = Guid.NewGuid(), CreatedAt = DateTime.UtcNow, Name = "Urun2", Price = 150, Stock = 15},
-                new() {Id = Guid.NewGuid(), CreatedAt = DateTime.UtcNow, Name = "Urun3", Price = 200, Stock = 20},
-            });
+            await _productWriteRepository.AddAsync(new() { Name = "Urun1", Price = 1.500F, Stock = 10 });
+            await _productWriteRepository.SaveAsync();
 
            var x = await _productWriteRepository.SaveAsync();
            return Ok("İşlem Tamam");
