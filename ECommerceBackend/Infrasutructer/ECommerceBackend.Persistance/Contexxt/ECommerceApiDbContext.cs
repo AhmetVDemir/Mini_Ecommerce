@@ -29,12 +29,16 @@ namespace ECommerceBackend.Persistance.Contexxt
             var data = ChangeTracker.Entries<BaseEntity>();
             foreach (var entry in data)
             {
-                DateTime dateTime = entry.State switch
+                switch (entry.State)
                 {
-                    EntityState.Added => entry.Entity.CreatedAt = DateTime.UtcNow,
-                    EntityState.Modified => entry.Entity.UpdatedAt = DateTime.UtcNow,
+                    case EntityState.Added:
+                        entry.Entity.CreatedAt = DateTime.UtcNow;
+                        break;
+                    case EntityState.Modified:
+                        entry.Entity.UpdatedAt = DateTime.UtcNow;
+                        break;
+
                 };
-                _ = dateTime;
             }
 
             return await base.SaveChangesAsync(cancellationToken);
