@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceBackend.Persistance
 {
-    static class Configuration
+    public static class Configuration
     {
-        static public string ConnectionString
+        public static string ConnectionString
         {
             get {
                 ConfigurationManager configurationManager = new ConfigurationManager();
